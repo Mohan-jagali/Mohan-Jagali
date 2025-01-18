@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
+- 📝 I regularly write articles on [https://boxd.it/3yUNz](https://boxd.it/3yUNz)
+
 - 📫 How to reach me **mohanjagali6442@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohan-jagali-279117249](https://www.linkedin.com/in/mohan-jagali-279117249)
